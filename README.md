@@ -1,4 +1,14 @@
-### usage
+## usage
+
+### install
+
+```bash
+npm install long-press-mobile
+```
+
+```bash
+yarn add long-press-mobile
+```
 
 html
 
