@@ -1,5 +1,5 @@
 {
-  "name": "long-press",
+  "name": "long-press-mobile",
   "version": "1.0.0",
   "description": "移动端长按事件",
   "main": "index.js",
