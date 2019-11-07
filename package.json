@@ -1,0 +1,24 @@
+{
+  "name": "long-press",
+  "version": "1.0.0",
+  "description": "移动端长按事件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QingshanLuoyue/long-press.git"
+  },
+  "author": "qingshanluoyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QingshanLuoyue/long-press/issues"
+  },
+  "homepage": "https://github.com/QingshanLuoyue/long-press#readme",
+  "keywords": [
+    "long",
+    "press",
+    "event"
+  ]
+}
