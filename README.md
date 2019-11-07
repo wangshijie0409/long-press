@@ -35,5 +35,5 @@ new LongPress('.minus', () => {
  * @param {String} selector 字符串选择器
  * @param {Function} cb 长按事件持续执行回调
  */
-LongPress(selector, cb)
+new LongPress(selector, cb)
 ```
